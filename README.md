@@ -1,5 +1,9 @@
 # Thomas Metcalfe
 
+Physics master’s graduate with a passion to **lead the exploration of the future boundaries between human language and artificial intelligence**. Public speaker and quantum computing enthusiast
+
+---
+
 ### Contact
 E-mail:    tommetcalfe@live.com
 
