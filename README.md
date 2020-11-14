@@ -1,5 +1,4 @@
 # Thomas Metcalfe
-Physics master’s graduate with a passion to lead the exploration of the future boundaries between human language and artificial intelligence.  Public speaker and quantum computing enthusiast.
 
 ### Contact
 E-mail:    tommetcalfe@live.com
@@ -31,9 +30,9 @@ Areas of study including quantum & classical mechanics, nuclear physics, condens
 
 ## Skills
 ### Core
-Python (8 years’ experience)
-Quantum computing (2 years’ experience)
-Public speaking (5 years’ experience)
+- Python (8 years’ experience)
+- Quantum computing (2 years’ experience)
+- Public speaking (5 years’ experience)
 
 ### Frameworks
 TensorFlow, PyTorch, Kafka, Gym, scikit-learn, spaCy, Rasa, Unity, Pytest, RegEx
@@ -42,10 +41,10 @@ TensorFlow, PyTorch, Kafka, Gym, scikit-learn, spaCy, Rasa, Unity, Pytest, RegEx
 Git, CI/CD, Docker, Kubernetes, Google Cloud Platform, AWS
 
 ### References
-Dr. Alan Nichol
-CTO & CO-FOUNDER, RASA TECHNOLOGIES INC
+Dr. Alan Nichol, _CTO & Co-founder at Rasa_
+
 alan@rasa.com
 
-Prof. Joe Elliott
-PRINCIPAL, COLLINGWOOD COLLEGE DURHAM
-joe.elliott@durham.ac.uk
+Dr. Aji Ghose, _VP, Data & Research at Chattermill_
+
+aji@chattermill.io
