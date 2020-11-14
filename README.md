@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# Thomas Metcalfe
+Physics master’s graduate with a passion to lead the exploration of the future boundaries between human language and artificial intelligence.  Public speaker and quantum computing enthusiast.
 
-You can use the [editor on GitHub](https://github.com/MetcalfeTom/MetcalfeTom.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Contact
+E-mail:    tommetcalfe@live.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Github: [@MetcalfeTom](www.github.com/MetcalfeTom)
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Experience
+### Chattermill, Berlin - Deep Learning Engineer 
+_(September 2019 - present)_
 
-```markdown
-Syntax highlighted code block
+I am responsible for engineering and maintaining the **core machine learning component** of Chattermill’s principal product: our **natural language processing stack on Kubernetes** which analyses customer feedback data at scale.  My role lies at the border between data science and software engineering - ensuring the service is **performing with state-of-the-art** accuracy without compromising on efficiency.
+Outside of this, I run and coordinate data science research initiatives on **conversational data, ranking algorithms and abstractive text summarisation** for future products.
 
-# Header 1
-## Header 2
-### Header 3
+### Rasa, Berlin- Machine Learning Engineer 
+_(September 2018 - September 2019)_
 
-- Bulleted
-- List
+Machine learning work with a focus on natural language processing: **open source natural language understanding and dialogue management** software for industrial AI assistants.  My projects included **collaborations with the open source community** and optimisation of dialogue policies; in one customer project I was successful in lowering chatbot training times by a **factor of over 100** whilst simultaneously doubling its success rate.
 
-1. Numbered
-2. List
+### AKKA Technologies, Paris- Machine Learning Engineer 
+_(March 2018 - September 2018)_
 
-**Bold** and _Italic_ and `Code` text
+Received training on market analysis and consulting skills.  Led a team in designing and presenting an **autonomous waste removal system** to key members of the company.  Following this training, I was relocated to Paris to work on a research project involving the training of a drone to fly autonomously in its environment using **reinforcement learning**.  By leading a small team I also implemented speech, gesture and facial recognition into the drone’s software to enable it to complete more complex tasks.
 
-[Link](url) and ![Image](src)
-```
+### Durham University, U.K. - Master’s in Physics
+Areas of study including quantum & classical mechanics, nuclear physics, condensed matter physics, lasers, quantum computing, cosmology & astrophysics.  My Master’s project consisted of classifying cosmic ultra luminous X-ray sources by their electromagnetic spectra, through software I built using Python.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Skills
+### Core
+Python (8 years’ experience)
+Quantum computing (2 years’ experience)
+Public speaking (5 years’ experience)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MetcalfeTom/MetcalfeTom.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Frameworks
+TensorFlow, PyTorch, Kafka, Gym, scikit-learn, spaCy, Rasa, Unity, Pytest, RegEx
 
-### Support or Contact
+### Deployment tools
+Git, CI/CD, Docker, Kubernetes, Google Cloud Platform, AWS
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### References
+Dr. Alan Nichol
+CTO & CO-FOUNDER, RASA TECHNOLOGIES INC
+alan@rasa.com
+
+Prof. Joe Elliott
+PRINCIPAL, COLLINGWOOD COLLEGE DURHAM
+joe.elliott@durham.ac.uk
