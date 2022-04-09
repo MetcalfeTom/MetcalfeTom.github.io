@@ -12,8 +12,14 @@ Github: [@MetcalfeTom](www.github.com/MetcalfeTom)
 ---
 
 ## Experience
-### Chattermill, Berlin - Deep Learning Engineer 
-_(September 2019 - present)_
+
+### Twain, Berlin - Chief Data Scientist
+_(March 2022 - present)_
+
+I lead and manage the data science team at Twain as we develop our natural language processing algorithms.
+
+### Chattermill, Berlin - Lead Machine Learning Engineer
+_(September 2019 - March 2022)_
 
 I am responsible for engineering and maintaining the **core machine learning component** of Chattermill’s principal product: our **natural language processing stack on Kubernetes** which analyses customer feedback data at scale.  My role lies at the border between data science and software engineering - ensuring the service is **performing with state-of-the-art** accuracy without compromising on efficiency.
 Outside of this, I run and coordinate data science research initiatives on **conversational data, ranking algorithms and abstractive text summarisation** for future products.
