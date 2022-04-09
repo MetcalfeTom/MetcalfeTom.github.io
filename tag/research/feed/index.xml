@@ -9,7 +9,7 @@
 
 <channel>
 	<title>research &#8211; Thomas Metcalfe</title>
-	<atom:link href="http://localhost/tag/research/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/tag/research/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Machine learning and people learning</description>
 	<lastBuildDate>Sat, 09 Apr 2022 11:00:06 +0000</lastBuildDate>

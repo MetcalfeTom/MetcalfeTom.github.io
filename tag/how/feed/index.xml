@@ -9,7 +9,7 @@
 
 <channel>
 	<title>how &#8211; Thomas Metcalfe</title>
-	<atom:link href="http://localhost/tag/how/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/tag/how/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Machine learning and people learning</description>
 	<lastBuildDate>Sat, 09 Apr 2022 11:00:02 +0000</lastBuildDate>
