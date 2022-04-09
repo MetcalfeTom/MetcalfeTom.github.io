@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>foreign &#8211; Thomas Metcalfe</title>
+	<atom:link href="http://localhost/tag/foreign/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Machine learning and people learning</description>
+	<lastBuildDate>Sat, 09 Apr 2022 11:00:02 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Achieve B1 German in 6 months</title>
+		<link>/achieve-b1-german-in-6-months/</link>
+		
+		<dc:creator><![CDATA[thomas]]></dc:creator>
+		<pubDate>Sat, 01 May 2021 18:16:52 +0000</pubDate>
+				<category><![CDATA[Learning]]></category>
+		<category><![CDATA[b1]]></category>
+		<category><![CDATA[deutsch]]></category>
+		<category><![CDATA[exam]]></category>
+		<category><![CDATA[foreign]]></category>
+		<category><![CDATA[german]]></category>
+		<category><![CDATA[goethe institut]]></category>
+		<category><![CDATA[how]]></category>
+		<category><![CDATA[languages]]></category>
+		<category><![CDATA[learn]]></category>
+		<category><![CDATA[learning]]></category>
+		<category><![CDATA[pass]]></category>
+		<category><![CDATA[resources]]></category>
+		<category><![CDATA[study]]></category>
+		<category><![CDATA[techniques]]></category>
+		<guid isPermaLink="false">http://thomasmetcalfe.com/?p=23</guid>
+
+					<description><![CDATA[7 scientific principles and practices I used to pass my German B1 exam in 6 months of study]]></description>
+										<content:encoded><![CDATA[<p>Today I will share the 7 principles and practices I used to pass the Goethe Institut B1 German Zertifikat in 6 months of study. The tools are grounded in scientific literature regarding effective ways of learning, and are achievable with a limited budget, internet access and a commitment to learn. They include: Practicing the exam early and often Memorizing key words and phrases with flash cards...</p>
+<p><a href="/achieve-b1-german-in-6-months/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
